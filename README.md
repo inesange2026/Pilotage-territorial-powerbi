@@ -33,11 +33,11 @@ Préparation et transformation des données dans Power Query
 Modélisation en étoile des données
 Data visualisation orientée pilotage et lisibilité métier
 
-STRUCTURE DU RAPPORT
+Structure du rapport
 
 Le rapport est structuré autour de trois axes :
   1- Synthèse et pilotage global
   2- Dynamique démographique
   3- Dynamisme entrepreneurial
-Chque page est conçue pour répondre à un objectif précis et faciliter la lecture par des publiques non spécialistes aussi de la data.
+Chaque page est conçue pour répondre à un objectif précis et faciliter la lecture par des publiques non spécialistes aussi de la data.
 
