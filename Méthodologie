@@ -1,0 +1,4 @@
+- Le périmètre a été volontairement limité à des  indicateurs robustes et disponibles de manière homogène sur l'ensemble du territoire étudié.
+- Création du calendrier
+- Création de mesures DAX
+- Les taux de croissance sont calculés en comparaison annuelle (N vs N-1).
