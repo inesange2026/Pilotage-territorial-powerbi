@@ -22,9 +22,7 @@ Comparaisons territoriales et analyses temporelles
 IV- Sources de données
 
 Les données sont issues de sources open data de l'INSEE. Fichiers au format Excel et CSV téléchargés manuellement puis intégrés dans Power BI.
-
 Les données sont publiques, anonymisées et ne contiennent aucune information sensible.
-
 Table POPULATION - Table ENTREPRISE et la Table DEPARTEMENT (données intégrées manuellement dans Power BI)
 
 V- Technique
@@ -38,7 +36,8 @@ Data visualisation orientée pilotage et lisibilité métier
 STRUCTURE DU RAPPORT
 
 Le rapport est structuré autour de trois axes :
-1- Synthèse et pilotage global
-2- Dynamique démographique
-3- Dynamisme entrepreneurial
+  1- Synthèse et pilotage global
+  2- Dynamique démographique
+  3- Dynamisme entrepreneurial
+Chque page est conçue pour répondre à un objectif précis et faciliter la lecture par des publiques non spécialistes aussi de la data.
 
