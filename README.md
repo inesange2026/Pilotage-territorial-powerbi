@@ -8,23 +8,23 @@ II- Cas d'usage métier
 
 Ce tableau de bord répond notamment aux enjeux suivants :
 
-Identifier les territoires à fort potentiel de clientèle
+- Identifier les territoires à fort potentiel de clientèle
 
-Analyser la dynamique économique locale
+- Analyser la dynamique économique locale
 
-Comparer les départements à des fins de priorisation stratégique
+- Comparer les départements à des fins de priorisation stratégique
 
 III- Indicateurs clés analysés
 
-Population totale par département
+- Population totale par département
 
-Taux de croissance démographique
+- Taux de croissance démographique
 
-Nombre de créations d'entrprises sur le territoire 
+- Nombre de créations d'entrprises sur le territoire 
 
-Taux de croissance des créations d'entreprises 
+- Taux de croissance des créations d'entreprises 
 
-Comparaisons territoriales et analyses temporelles
+- Comparaisons territoriales et analyses temporelles
 
 IV- Sources de données
 
@@ -34,21 +34,25 @@ Table POPULATION - Table ENTREPRISE et la Table DEPARTEMENT (données intégrée
 
 V- Technique
 
-Utilisation de l'outil Power BI Dexktop
+- Utilisation de l'outil Power BI Dexktop
 
-Import des données fichiers 
+- Import des données fichiers 
 
-Préparation et transformation des données dans Power Query
+- Préparation et transformation des données dans Power Query
 
-Modélisation en étoile des données
+- Modélisation en étoile des données
 
-Data visualisation orientée pilotage et lisibilité métier
+- Data visualisation orientée pilotage et lisibilité métier
 
-Structure du rapport
+VI- Structure du rapport
 
 Le rapport est structuré autour de trois axes :
+
   1- Synthèse et pilotage global
+
   2- Dynamique démographique
+  
   3- Dynamisme entrepreneurial
+  
 Chaque page est conçue pour répondre à un objectif précis et faciliter la lecture par des publiques non spécialistes aussi de la data.
 
